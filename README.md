@@ -8,7 +8,7 @@
 Desarrollador Web Full Stack 💻
 </h1>
 
-## Sobre mí
+## Sobre mí 📌
 Me defino como una persona emprendedora, comunicativa, positiva, segura de que estamos rodeados de alternativas y oportunidades. Tengo como objetivo sumarme a un equipo de desarrollo en el cual aprender y crecer, participando de un proyecto en el cual pueda aportar valor, enfrentar nuevos desafíos y experiencias.
 
 ## Habilidades 👨‍💻
